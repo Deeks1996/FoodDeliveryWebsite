@@ -1,0 +1,10 @@
+.cart_page{
+    padding-top: 150px;
+    background: var(--light-grey-2);
+}
+
+.cart_page h2{
+    font-size:35px;
+    font-weight:800;
+    color:var(--light-black);
+}
